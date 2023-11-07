@@ -2,6 +2,8 @@ import Home from '../pages/Home';
 import Header from '../templates/Header';
 import Character from '../pages/Character';
 import Error404 from '../pages/Error404';
+import getHash from '../utils/getHash';
+import resolveRoutes from '../utils/resolveRoutes';
 
 const routes = {
 	'/': Home,

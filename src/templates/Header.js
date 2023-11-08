@@ -7,12 +7,12 @@ const Header = () => {
             Título
           </a>
         </h1>
-        <div class="Header-nav">
+      </div>
+      <div class="Header-nav">
           <a href="#/about/">
           About
           </a>
         </div>
-      </div>
     </div>
   `;
 	return view;

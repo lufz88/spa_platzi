@@ -3,8 +3,8 @@ const Header = () => {
     <div class="Header-main">
       <div class="Header-logo">
         <h1>
-          <a href="/">
-            Título
+          <a href="/spa_platzi">
+            Single Page Aplication
           </a>
         </h1>
       </div>
@@ -12,7 +12,7 @@ const Header = () => {
           <a href="#/about/">
           About
           </a>
-        </div>
+      </div>
     </div>
   `;
 	return view;
